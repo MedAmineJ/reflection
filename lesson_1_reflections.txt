@@ -1,0 +1,35 @@
+VERSION CONTROLE
+GIT: VERSION CONTROLE SYSTEME
+GITHUB: PLATFORM	
+lESSON 1: WHY USE GIT
+
+LESSON 1
+I think it will be really usefull to find a way to compare your work before and after applying changes because sometimes you will 
+do wrong things and dont know where exactly u fcked up so I think it will be of a great help
+HOW CAN THIS HELPS U BECOME A BETTER PROGRAMMER	.??
+I think this will be a great help so you can see how you improved or when applying big changes to your projexts then regretting them you can start all over from wherever point you choose
+CVS: concurrent version systems
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+while using git you may forget to save importent changes and thats the down part of it but it also saves you from saving all the changes even the tiny ones like google docs does what make it really difficult to browse throught your history
+reposotpry : a group of files that works together
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+I think because they dont manipulate the same kind of files git is a more develepement environement where programmers work on multiple relates files on the same time
+to copy a reporsitory use the comend git clone url
+git log see the changes
+How can you use the commands git log and git diff to view the history of files?
+u get in the repository directory threw terminal and use git log to check the changes history 
+Should not be doing an octopus git diff ompare 2 commits
+----Octopus is a strategy Git uses to combine many different versions of code together. This message can appear if you try to use this strategy in an inappropriate situation.
+
+You are in 'detached HEAD' state
+HEAD is what Git calls the commit you are currently on. You can “detach” the HEAD by switching to a previous commit, which we’ll see in the next video. Despite what it sounds like, it’s actually not a bad thing to detach the HEAD. Git just warns you so that you’ll realize you’re doing it.
+
+Panic! (the 'impossible' happened)
+This is a real error message, but it’s not output by Git. Instead it’s output by GHC, the compiler for a programming language called Haskell. It’s reserved for particularly surprising errors!
+
+Takeaway We hope these errors and warnings amused you as much as they amused us! Now that you know what kind of errors Git can throw, you’re ready to start checking out previous versions of files with Caroline.
+GIT CHECKOUT commitId restoring a previous version
+How might using version control make you more confident to make changes that could break something?
+if you break it you can simply fix it
+Reflect: How Do You Want to Use Git?
+it seems really usefull I want to use it
