@@ -3,3 +3,9 @@ when you finish a commit and it's ready to be shared with others working on the 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 maybe you want to affect some changes in a certain time after affecting a logical change in your programme or you dont want to pull everything contributed to your project by others
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks is a copy of someone repository on github clone is a copy of a repository to your local space branch happens on your local network
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+you can know what s in origin/master branch
